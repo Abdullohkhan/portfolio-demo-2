@@ -8,9 +8,9 @@ Modern, fully responsive portfolio with **Dark/Light Mode** support.
 |----------------|-----------|
 | React           | **19.x**  |
 | TypeScript      | **5.8.x** |
-| Vite            | **6.x**   |
+| Vite            | **8.x**   |
 | TailwindCSS     | **4.x**   |
-| Material UI     | **7.x**   |
+| Material UI     | **9.x**   |
 | Redux Toolkit   | **2.6.x** |
 | React Redux     | **9.x**   |
 
